@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="50%" height="50%">
 </div>
 
 # Hi there 👋 I'm Pilar Vieyra
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **vieyrap/vieyrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
